@@ -1,2 +1,2 @@
-# CounterfeitCurrencyDetectio
-Counterfeit Currency Detection is done by Vgg19 model. Dataset is prepared for Bangladeshi currency 500,1k notes.
+# CounterfeitCurrencyDetection
+Counterfeit Currency Detection is done by the Vgg19 model. The dataset is prepared for Bangladeshi currency 500,1k notes.
